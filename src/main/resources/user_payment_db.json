@@ -1,0 +1,45 @@
+{
+    "payment": [{
+        "user": {
+            "id": 1,
+            "name" : "James Smith"
+        },
+        "type": "DEBIT CARD",
+        "cardId": 5817581395726184
+    }, {
+        "user": {
+            "id": 1,
+            "name" : "James Smith"
+        },
+        "type": "CREDIT CARD",
+        "cardId": 9437152106729174
+    }, {
+        "user": {
+            "id": 2,
+            "name" : "John Talyer"
+        },
+        "type": "CREDIT CARD",
+        "cardId": 1957261957154926
+    }, {
+        "user": {
+            "id": 2,
+            "name" : "John Talyer"
+        },
+        "type": "DEBIT CARD",
+        "cardId": 9671659258165921
+    }, {
+        "user": {
+            "id": 3,
+            "name" : "Robert Jones"
+        },
+        "type": "DEBIT CARD",
+        "cardId": 8671550215592613
+    }, {
+        "user": {
+            "id": 3,
+            "name" : "Robert Jones"
+        },
+        "type": "DEBIT CARD",
+        "cardId": 1967176928165913
+    }]
+}
